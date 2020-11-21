@@ -556,3 +556,7 @@ footer a { color: white; }
 .no-js #loader-wrapper {
     display: none;
 }
+
+.fixed-height {
+    min-height: 400px;
+}
